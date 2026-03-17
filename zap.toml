@@ -1,7 +1,7 @@
 [server]
 ip = "10.15.1.168"
 port = 8000
-share_directory = "/Users/charles/Downloads/第6组答辩材料"
+share_directory = 'D:\BaiduNetdiskDownload\laodu'
 
 [client]
 download_directory = "/Users/charles/Downloads/11111"
